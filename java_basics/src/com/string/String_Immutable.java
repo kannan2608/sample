@@ -12,7 +12,7 @@ public class String_Immutable {
 	sb.append("two");
 	System.out.println(sb);
 	
-	String s1=new String("durga");
+	String s1=new String("kannan");
 	String s2=new String("durga");
 	System.out.println(s1==s2);
 	System.out.println(s1.equals(s2));
